@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: nRF-TestDevice.PcbDoc   24. 12. 2020  10:18:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : nRF-TestDevice_V1.0-RoundHoles.TXT
+ASCII SlotHoles File : nRF-TestDevice_V1.0-SlotHoles.TXT
+EIA File   : nRF-TestDevice_V1.0.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             919       PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             161       PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             16        PTH        0.00inch (0.00mm)
+T5      28mil (0.7mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             7         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1107
+
+Total Processing Time (hh:mm:ss) : 00:00:00

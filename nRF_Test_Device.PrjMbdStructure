@@ -1,0 +1,22 @@
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\nRF-TestDevice.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\nRF-TestDevice.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\09_EXTERNAL_DEVICE\nRF9160-DK\pca10090.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\09_EXTERNAL_DEVICE\nRF9160-DK\pca10090.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\09_EXTERNAL_DEVICE\Power Profiler Kit II\pca63100.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\09_EXTERNAL_DEVICE\Power Profiler Kit II\pca63100.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=11|Source=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=9|Source=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\Telespor_Adapter\Telespor_Adapter.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=10|Source=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=8|Source=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB
+Record=DiagramHierarchy|SourceDocument=nRF-TestDevice.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB
+Record=SubProject|SourceDocument=nRF-TestDevice.MbsDoc|ProjectPath=..\..\..\..\Telespor_no\Elektronics\Telespor_Tracker.PrjPCB

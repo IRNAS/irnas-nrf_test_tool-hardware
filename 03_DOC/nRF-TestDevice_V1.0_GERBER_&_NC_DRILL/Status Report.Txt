@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [nRF-TestDevice.PcbDoc]
+   Generated File[nRF-TestDevice_V1.0-RoundHoles.TXT]
+   Generated File[nRF-TestDevice_V1.0-SlotHoles.TXT]
+   Generated File[nRF-TestDevice_V1.0.DRL]
+   Generated File[nRF-TestDevice_V1.0.LDP]
+   Generated File[nRF-TestDevice_V1.0.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 10:18:41 On 24. 12. 2020
