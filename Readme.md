@@ -1,7 +1,7 @@
 # nRF Test Device
 
-<img width="500" src="./03_DOC/nRF-TestDevice_PICTURES/PCB1.png">
-<img width="500" src="./03_DOC/nRF-TestDevice_PICTURES/PCB2.png">
+<img width="500" src="./03_DOC/nRF-TestDevice_PICTURES/PCB_V1.0_3D_1.png">
+<img width="500" src="./03_DOC/nRF-TestDevice_PICTURES/PCB_V1.0_3D_2.png">
 
 # Summary
 
